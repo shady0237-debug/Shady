@@ -26,3 +26,8 @@ Shady/
 - notes/
     - first-note.txt
     - our-journey.md (الملف ده)
+ 
+    - 7. Google Colab - فتحنا الورشة
+8. Variable - عرفنا الصندوق  
+9. اتعلمنا 4 علامات: = و " " و ( ) و { }
+10. شغلنا كود الصندوق ونجح
